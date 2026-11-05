@@ -1,8 +1,13 @@
 package TypeofVariable;
 
 public class Monday {
-    int a=20;
+    int a;
+    Monday(){
+        a=20;
+    }
+
     public void m1(){
+
         System.out.println(a);
     }
     public static void m2(){

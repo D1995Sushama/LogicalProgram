@@ -2,7 +2,7 @@ package LogicalCoding;
 
 import java.util.Scanner;
 
-public class AcceptInputFromUser_String_1 {
+public class ArmstrongNumber_1{
     static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         System.out.println("Enter a Number=");

@@ -1,4 +1,4 @@
-package LogicalCoding.StarPatternPrinting;
+package StarPatternPrinting;
 
 import java.util.Scanner;
 

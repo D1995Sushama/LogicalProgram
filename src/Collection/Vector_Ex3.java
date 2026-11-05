@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.ListIterator;
 import java.util.Vector;
 
-public class VectorList {
+public class Vector_Ex3 {
     public static void main(String[]args){
         Vector v1=new Vector();
         v1.add("Sushama");

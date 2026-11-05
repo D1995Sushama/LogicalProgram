@@ -1,6 +1,4 @@
-package Assignment;
-
-import org.yaml.snakeyaml.scanner.ScannerImpl;
+package LogicalCoding;
 
 import java.util.Scanner;
 

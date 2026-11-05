@@ -1,4 +1,4 @@
-package LogicalCoding.StarPatternPrinting;
+package StarPatternPrinting;
 
 public class MirroreimageofTraingle_1 {
     static void main(String[] args) {

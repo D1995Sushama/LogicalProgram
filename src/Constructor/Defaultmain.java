@@ -1,7 +1,10 @@
 package Constructor;
 
+import Accesspecifire1.Thusdaypublic;
+
 public class Defaultmain {
     public void m2(){
+
         System.out.println("running method is same class");
     }
     public static void main(){
@@ -10,5 +13,7 @@ public class Defaultmain {
         System.out.println("------------------");
         Defaultcons d2=new Defaultcons();
         d2.m1();
+        Thusdaypublic t1=new Thusdaypublic();
+        t1.m1();
     }
 }

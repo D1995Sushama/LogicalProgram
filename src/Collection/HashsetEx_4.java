@@ -3,7 +3,7 @@ package Collection;
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class Hashset {
+public class HashsetEx_4 {
     static void main(String[] args) {
        HashSet h1=new HashSet();
        h1.add("Sushama");

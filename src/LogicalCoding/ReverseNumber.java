@@ -1,4 +1,4 @@
-package Assignment;
+package LogicalCoding;
 
 public class ReverseNumber {
     static void main(String[] args) {

@@ -1,6 +1,4 @@
-package Assignment;
-
-import org.openqa.selenium.WebDriver;
+package LogicalCoding;
 
 import java.util.Scanner;
 

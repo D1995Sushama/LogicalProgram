@@ -1,4 +1,4 @@
-package LogicalCoding.StarPatternPrinting;
+package StarPatternPrinting;
 
 public class Horizontal_VerticalLine {
     static void main(String[] args) {

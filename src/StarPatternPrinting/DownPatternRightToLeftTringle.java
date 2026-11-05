@@ -1,6 +1,4 @@
-package LogicalCoding.StarPatternPrinting;
-
-import java.util.Scanner;
+package StarPatternPrinting;
 
 public class DownPatternRightToLeftTringle {
     static void main(String[] args) {

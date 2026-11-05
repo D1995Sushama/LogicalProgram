@@ -3,7 +3,7 @@ package Collection;
 import java.util.Iterator;
 import java.util.TreeSet;
 
-public class TreesetEx_2Generic {
+public class TreesetEx_1Generic {
     static void main(String[] args) {
         TreeSet<String> s1=new TreeSet<String>();
         s1.add("Nandkishor");

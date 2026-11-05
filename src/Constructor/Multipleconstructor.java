@@ -29,7 +29,8 @@ public class Multipleconstructor {
     public void mobnum(){
         System.out.println("Mobile Number Is="+mobnum);
     }
-    public void higweight(){
+    public void higweight()
+    {
         System.out.println("Hight"+hight);
         System.out.println("Weight"+weight);
     }

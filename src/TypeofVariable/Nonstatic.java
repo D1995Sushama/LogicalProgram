@@ -11,9 +11,10 @@ public class Nonstatic {
         System.out.println(n1.add);
     }
     public void m2(){
+
         System.out.println(n*m);
     }
-    public static void main(){
+    public static void main(String[] args){
         Nonstatic n2=new Nonstatic();
         System.out.println(n2.add);
         Nonstatic n1=new Nonstatic();

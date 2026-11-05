@@ -2,7 +2,7 @@ package LogicalCoding;
 
 import java.util.Scanner;
 
-public class aa {
+public class AcceptInputFromUser_Int_3 {
     static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter number1=");
@@ -21,9 +21,17 @@ public class aa {
         for (int i = 2; i <= num1; i++) {
             if (num1 % i == 0) {
                 a = 1;
-                System.out.println("");
-
+                System.out.println("number is composite");
+            break;
+            }
+            else if(a==0){
+                System.out.println("number is Prime");
+                break;
             }
         }
+        if(a==1){
+            System.out.println("number is not prime and composite");
+        }
+
     }
 }

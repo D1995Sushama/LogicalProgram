@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/vision.iml" filepath="$PROJECT_DIR$/vision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visionBasicJava.iml" filepath="$PROJECT_DIR$/visionBasicJava.iml" />
     </modules>
   </component>
 </project>
